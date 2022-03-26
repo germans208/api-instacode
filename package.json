@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node .",
-    "start:dev" : "nodemon ."
+    "start:dev" : "nodemon .",
+    "build" : "echo 'Build'"
   },
   "keywords": [],
   "author": "Ing. Settino German Edgardo",
