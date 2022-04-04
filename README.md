@@ -13,8 +13,6 @@
 
 Instalar la Base de datos
 Se crea la BD
-user=root
-password=ZxdRuxNhzRSQeukz
 
 Luego pones la IP 0.0.0.0/0, por lo general se pone la de tu server. que es estatica
 
